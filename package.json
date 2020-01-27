@@ -72,7 +72,7 @@
     "weex-vue-render": "^1.0.17"
   },
   "dependencies": {
-    "url-parse": "^1.1.9",
+    "url-parse": "^1.4.5",
     "weex-bindingx": "0.0.12"
   }
 }
